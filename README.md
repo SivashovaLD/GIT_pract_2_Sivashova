@@ -89,3 +89,10 @@
 
     3.2. три два
 4. четыре
+
+
+
+``` java
+public static void main(String[] ags){System.out.println("some text"):
+}
+```
