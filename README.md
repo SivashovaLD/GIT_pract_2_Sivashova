@@ -6,6 +6,7 @@
 ###### 17.10.2020
 Абзац !!!!!!
 
+![horse](https://images.unsplash.com/photo-1553284965-5dd8352ff1bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 *курсив* _курсив_
 **жирный** __жирный__
 **_смешанный_**
