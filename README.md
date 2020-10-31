@@ -97,3 +97,7 @@
 public static void main(String[] ags){System.out.println("some text"):
 }
 ```
+
+
+![Фонтан](Fountain.jpg)
+![открытка](Card.png)
